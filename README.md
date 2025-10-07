@@ -65,9 +65,4 @@
 
 ---
 
-## 📈 Extras / Widgets
-
-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aybolali)  
-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aybolali&theme=tokyonight)  
-
 ✨ *Always learning. Always building.*  
