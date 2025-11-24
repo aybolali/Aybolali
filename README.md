@@ -38,7 +38,9 @@
 ## 🚀 Featured Projects
 
 ### 🤖 [PLN-KZT Exchange Bot](https://github.com/aybolali/pln-kzt-exchange-platform)
-**Live in Production**  [![Telegram](https://img.shields.io/badge/Try%20it-%40plnkzt__exchange__bot-26A5E4?logo=telegram)](https://t.me/plnkzt_exchange_bot)
+**🟢 Live in Production** | **[Try Bot on Telegram →](https://t.me/plnkzt_exchange_bot)**
+
+[![Telegram Bot](https://img.shields.io/badge/Telegram-Bot-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/plnkzt_exchange_bot)
 
 A peer-to-peer currency exchange matching platform connecting users who need to exchange Polish Złoty (PLN) and Kazakhstani Tenge (KZT).
 
