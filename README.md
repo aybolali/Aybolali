@@ -75,11 +75,6 @@ Complete e-commerce solution with product management, shopping cart, and checkou
 
 ---
 
-## 📊 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aybolali&layout=compact&theme=tokyonight)
-
----
 
 ## 📫 Let's Connect!
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dunnosorry)  
