@@ -8,7 +8,7 @@
 
 ## ✨ Highlights  
 - 🎓 Just graduated with a **Bachelor's in Computer Engineering** (GPA: 4.45 / 5.0)  
-- 💻 Built several **projects** (bots, e-commerce apps, mobile apps), deployed to production
+- 💻 Built several **real-world projects** (bots, e-commerce apps, mobile apps) deployed to production
 - 🌱 Strong **foundation in Java, Spring Boot, Angular, SQL** with hands-on cloud/DevOps experience
 - 🚀 Looking for opportunities as a **Junior Software Engineer** to grow and contribute  
 
@@ -38,7 +38,7 @@
 ## 🚀 Featured Projects
 
 ### 🤖 [PLN-KZT Exchange Bot](https://github.com/aybolali/pln-kzt-exchange-platform)
-**🟢 Live in Production** | **[Try Bot on Telegram →](https://t.me/plnkzt_exchange_bot)**
+**🟢 Live in Production** 
 
 [![Telegram Bot](https://img.shields.io/badge/Telegram-Bot-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/plnkzt_exchange_bot)
 
@@ -52,12 +52,14 @@ A peer-to-peer currency exchange matching platform connecting users who need to 
 
 ---
 
-### 🛒 E-Commerce Platform
+### 🛒 [AstanaKebab E-Commerce Platform](https://github.com/aybolali/astanaKebab)
 **Angular + Spring Boot** • Full-stack application
 
 Complete e-commerce solution with product management, shopping cart, and checkout flow.
 
 **Tech Stack:** Angular 14, Spring Boot 2.7, MySQL, Spring Security, JWT
+
+**[View Source Code →](https://github.com/aybolali/astanaKebab)**
 
 ---
 
@@ -74,7 +76,6 @@ Complete e-commerce solution with product management, shopping cart, and checkou
 - ✅ [FullStack: Angular & Java Spring Boot E-Commerce](https://www.udemy.com/certificate/UC-4a7c14cb-560d-41f7-9095-c67ecba9a461/)
 
 ---
-
 
 ## 📫 Let's Connect!
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dunnosorry)  
